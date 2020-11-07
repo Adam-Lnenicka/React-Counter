@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  margin: 0.5em 1em;
+}
+
+button{
+  margin: 2em;
+}
+
+.counter{
+  display: flex
+
+}
